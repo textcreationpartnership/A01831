@@ -36,477 +36,83 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The regiment of life, whereunto is added a treatise of the pestilence, with the boke of children, ne
+
+1. ¶The preface to the booke of chyldren.
+
 #####Body#####
 
-1. ¶The humours which be in nature, and howe they are deuyded,
+1. ¶Here beginneth he Regiment of life, and firſt of the nature of mannes bodye.
 
-    _ ¶The fyrſte chapter of the fyrſte part, treating of the election of the ayer.
+    _ ¶The humours which be in nature, and howe they are deuyded,
 
-    _ ¶The ſecond Chapter, of eatyng and drynkyng.
+    _ The fyrſte chapter, of the ſickeneſſe and remedyes of the heed.
 
-    _ The thyrde Chapter, of ſlepynge and watchyng.
+    _ ¶The ſeconde chapter, howe to cure diſeaſes chauncyng in the face.
 
-    _ ¶The .v. Chapter, of emptineſſe and fulnes.
+    _ ✚The thyrde chapter treateth of remedyes for dyſeaſes of the breaſte.
 
-    _ ¶The .vi. Chapter, of accidentes of the minde.
+    _ The fourth Chapiter of the weakenes of the harte.
 
-    _ ¶The .vii. Chapter, of medicines preſeruatiues.
+    _ ¶The .v. Chapter of remedies for dyſeaſes of the ſtomake.
 
-    _ Howe to knowe a man that is infected, the fyrſt chapter.
+    _ ¶The ſyxt Chapter, of remedyes for diſeaſes, of the liuer.
 
-    _ ¶The ſeconde Chapter, of the cure of peſtilence, by the waye of dyet.
+    _ ¶The .vij chapter, againſte the dyſeaſes of the gall.
 
-    _ ¶The thyrde Chapter, of the cure of peſtilence by the waye of medicine.
+    _ The eyght Chapter, for diſeaſes of the ſplene.
 
-    _ ¶The .iiii. chapter of the cure of peſtilence, by lettyng of bloud, ventoſes, and purgacions
+    _ The nynth Chapter, for diſeaſes of the bowelles.
 
-    _ ¶The fifth Chapiter, of applycation of outward medicines.
+    _ ¶The tenth chapter of diſeaſes of the matrice.
 
-    _ ¶The .vi. Chapiter, of the cure of carbuncles and anthrax.
+    _ ¶The .xi. Chapter of the cure of the ſtone in the reines, and in the bladder.
 
-1. The fyrſte chapter, of the ſickeneſſe and remedyes of the heed.
+    _ ¶The .xii. chapter of remedyes for the goute.
 
-    _ ¶The fyrſte chapter of the fyrſte part, treating of the election of the ayer.
+1. ¶Here beginneth a goodly bryefe tretiſe of the Peſtilence, with the cauſes, ſignes, and cures of the ſame: compoſed, and newly recogniſed by Thomas Phayer ſtudious in Philoſophie and Phiſicke, to the ayde, comfort, and vtilitie of the poore.
 
-    _ ¶The ſecond Chapter, of eatyng and drynkyng.
+    _ ¶To the good reader a preface of the authour.
 
-    _ The thyrde Chapter, of ſlepynge and watchyng.
+    _ A treatiſe of the peſtilence. What is ment or ſignified by this worde peſtilence,
 
-    _ ¶The .v. Chapter, of emptineſſe and fulnes.
-
-    _ ¶The .vi. Chapter, of accidentes of the minde.
-
-    _ ¶The .vii. Chapter, of medicines preſeruatiues.
-
-    _ Howe to knowe a man that is infected, the fyrſt chapter.
-
-    _ ¶The ſeconde Chapter, of the cure of peſtilence, by the waye of dyet.
-
-    _ ¶The thyrde Chapter, of the cure of peſtilence by the waye of medicine.
-
-    _ ¶The .iiii. chapter of the cure of peſtilence, by lettyng of bloud, ventoſes, and purgacions
-
-    _ ¶The fifth Chapiter, of applycation of outward medicines.
-
-    _ ¶The .vi. Chapiter, of the cure of carbuncles and anthrax.
-
-1. ¶The ſeconde chapter, howe to cure diſeaſes chauncyng in the face.
-
-    _ ¶The fyrſte chapter of the fyrſte part, treating of the election of the ayer.
-
-    _ ¶The ſecond Chapter, of eatyng and drynkyng.
-
-    _ The thyrde Chapter, of ſlepynge and watchyng.
-
-    _ ¶The .v. Chapter, of emptineſſe and fulnes.
-
-    _ ¶The .vi. Chapter, of accidentes of the minde.
-
-    _ ¶The .vii. Chapter, of medicines preſeruatiues.
-
-    _ Howe to knowe a man that is infected, the fyrſt chapter.
-
-    _ ¶The ſeconde Chapter, of the cure of peſtilence, by the waye of dyet.
-
-    _ ¶The thyrde Chapter, of the cure of peſtilence by the waye of medicine.
-
-    _ ¶The .iiii. chapter of the cure of peſtilence, by lettyng of bloud, ventoſes, and purgacions
-
-    _ ¶The fifth Chapiter, of applycation of outward medicines.
-
-    _ ¶The .vi. Chapiter, of the cure of carbuncles and anthrax.
-
-1. ✚The thyrde chapter treateth of remedyes for dyſeaſes of the breaſte.
-
-    _ ¶The fyrſte chapter of the fyrſte part, treating of the election of the ayer.
-
-    _ ¶The ſecond Chapter, of eatyng and drynkyng.
-
-    _ The thyrde Chapter, of ſlepynge and watchyng.
-
-    _ ¶The .v. Chapter, of emptineſſe and fulnes.
-
-    _ ¶The .vi. Chapter, of accidentes of the minde.
-
-    _ ¶The .vii. Chapter, of medicines preſeruatiues.
-
-    _ Howe to knowe a man that is infected, the fyrſt chapter.
-
-    _ ¶The ſeconde Chapter, of the cure of peſtilence, by the waye of dyet.
-
-    _ ¶The thyrde Chapter, of the cure of peſtilence by the waye of medicine.
-
-    _ ¶The .iiii. chapter of the cure of peſtilence, by lettyng of bloud, ventoſes, and purgacions
-
-    _ ¶The fifth Chapiter, of applycation of outward medicines.
-
-    _ ¶The .vi. Chapiter, of the cure of carbuncles and anthrax.
-
-1. The fourth Chapiter of the weakenes of the harte.
-
-    _ ¶The fyrſte chapter of the fyrſte part, treating of the election of the ayer.
-
-    _ ¶The ſecond Chapter, of eatyng and drynkyng.
-
-    _ The thyrde Chapter, of ſlepynge and watchyng.
-
-    _ ¶The .v. Chapter, of emptineſſe and fulnes.
-
-    _ ¶The .vi. Chapter, of accidentes of the minde.
-
-    _ ¶The .vii. Chapter, of medicines preſeruatiues.
-
-    _ Howe to knowe a man that is infected, the fyrſt chapter.
-
-    _ ¶The ſeconde Chapter, of the cure of peſtilence, by the waye of dyet.
-
-    _ ¶The thyrde Chapter, of the cure of peſtilence by the waye of medicine.
-
-    _ ¶The .iiii. chapter of the cure of peſtilence, by lettyng of bloud, ventoſes, and purgacions
-
-    _ ¶The fifth Chapiter, of applycation of outward medicines.
-
-    _ ¶The .vi. Chapiter, of the cure of carbuncles and anthrax.
-
-1. ¶The .v. Chapter of remedies for dyſeaſes of the ſtomake.
-
-    _ ¶The fyrſte chapter of the fyrſte part, treating of the election of the ayer.
-
-    _ ¶The ſecond Chapter, of eatyng and drynkyng.
-
-    _ The thyrde Chapter, of ſlepynge and watchyng.
-
-    _ ¶The .v. Chapter, of emptineſſe and fulnes.
-
-    _ ¶The .vi. Chapter, of accidentes of the minde.
-
-    _ ¶The .vii. Chapter, of medicines preſeruatiues.
-
-    _ Howe to knowe a man that is infected, the fyrſt chapter.
-
-    _ ¶The ſeconde Chapter, of the cure of peſtilence, by the waye of dyet.
-
-    _ ¶The thyrde Chapter, of the cure of peſtilence by the waye of medicine.
-
-    _ ¶The .iiii. chapter of the cure of peſtilence, by lettyng of bloud, ventoſes, and purgacions
-
-    _ ¶The fifth Chapiter, of applycation of outward medicines.
-
-    _ ¶The .vi. Chapiter, of the cure of carbuncles and anthrax.
-
-1. ¶The ſyxt Chapter, of remedyes for diſeaſes, of the liuer.
-
-    _ ¶The fyrſte chapter of the fyrſte part, treating of the election of the ayer.
-
-    _ ¶The ſecond Chapter, of eatyng and drynkyng.
-
-    _ The thyrde Chapter, of ſlepynge and watchyng.
-
-    _ ¶The .v. Chapter, of emptineſſe and fulnes.
-
-    _ ¶The .vi. Chapter, of accidentes of the minde.
-
-    _ ¶The .vii. Chapter, of medicines preſeruatiues.
-
-    _ Howe to knowe a man that is infected, the fyrſt chapter.
-
-    _ ¶The ſeconde Chapter, of the cure of peſtilence, by the waye of dyet.
-
-    _ ¶The thyrde Chapter, of the cure of peſtilence by the waye of medicine.
-
-    _ ¶The .iiii. chapter of the cure of peſtilence, by lettyng of bloud, ventoſes, and purgacions
-
-    _ ¶The fifth Chapiter, of applycation of outward medicines.
-
-    _ ¶The .vi. Chapiter, of the cure of carbuncles and anthrax.
-
-1. ¶The .vij chapter, againſte the dyſeaſes of the gall.
-
-    _ ¶The fyrſte chapter of the fyrſte part, treating of the election of the ayer.
-
-    _ ¶The ſecond Chapter, of eatyng and drynkyng.
-
-    _ The thyrde Chapter, of ſlepynge and watchyng.
-
-    _ ¶The .v. Chapter, of emptineſſe and fulnes.
-
-    _ ¶The .vi. Chapter, of accidentes of the minde.
-
-    _ ¶The .vii. Chapter, of medicines preſeruatiues.
-
-    _ Howe to knowe a man that is infected, the fyrſt chapter.
-
-    _ ¶The ſeconde Chapter, of the cure of peſtilence, by the waye of dyet.
-
-    _ ¶The thyrde Chapter, of the cure of peſtilence by the waye of medicine.
-
-    _ ¶The .iiii. chapter of the cure of peſtilence, by lettyng of bloud, ventoſes, and purgacions
-
-    _ ¶The fifth Chapiter, of applycation of outward medicines.
-
-    _ ¶The .vi. Chapiter, of the cure of carbuncles and anthrax.
-
-1. The eyght Chapter, for diſeaſes of the ſplene.
-
-    _ ¶The fyrſte chapter of the fyrſte part, treating of the election of the ayer.
-
-    _ ¶The ſecond Chapter, of eatyng and drynkyng.
-
-    _ The thyrde Chapter, of ſlepynge and watchyng.
-
-    _ ¶The .v. Chapter, of emptineſſe and fulnes.
-
-    _ ¶The .vi. Chapter, of accidentes of the minde.
-
-    _ ¶The .vii. Chapter, of medicines preſeruatiues.
-
-    _ Howe to knowe a man that is infected, the fyrſt chapter.
-
-    _ ¶The ſeconde Chapter, of the cure of peſtilence, by the waye of dyet.
-
-    _ ¶The thyrde Chapter, of the cure of peſtilence by the waye of medicine.
-
-    _ ¶The .iiii. chapter of the cure of peſtilence, by lettyng of bloud, ventoſes, and purgacions
-
-    _ ¶The fifth Chapiter, of applycation of outward medicines.
-
-    _ ¶The .vi. Chapiter, of the cure of carbuncles and anthrax.
-
-1. The nynth Chapter, for diſeaſes of the bowelles.
-
-    _ ¶The fyrſte chapter of the fyrſte part, treating of the election of the ayer.
-
-    _ ¶The ſecond Chapter, of eatyng and drynkyng.
-
-    _ The thyrde Chapter, of ſlepynge and watchyng.
-
-    _ ¶The .v. Chapter, of emptineſſe and fulnes.
-
-    _ ¶The .vi. Chapter, of accidentes of the minde.
-
-    _ ¶The .vii. Chapter, of medicines preſeruatiues.
-
-    _ Howe to knowe a man that is infected, the fyrſt chapter.
-
-    _ ¶The ſeconde Chapter, of the cure of peſtilence, by the waye of dyet.
-
-    _ ¶The thyrde Chapter, of the cure of peſtilence by the waye of medicine.
-
-    _ ¶The .iiii. chapter of the cure of peſtilence, by lettyng of bloud, ventoſes, and purgacions
-
-    _ ¶The fifth Chapiter, of applycation of outward medicines.
-
-    _ ¶The .vi. Chapiter, of the cure of carbuncles and anthrax.
-
-1. ¶The tenth chapter of diſeaſes of the matrice.
-
-    _ ¶The fyrſte chapter of the fyrſte part, treating of the election of the ayer.
-
-    _ ¶The ſecond Chapter, of eatyng and drynkyng.
-
-    _ The thyrde Chapter, of ſlepynge and watchyng.
-
-    _ ¶The .v. Chapter, of emptineſſe and fulnes.
-
-    _ ¶The .vi. Chapter, of accidentes of the minde.
-
-    _ ¶The .vii. Chapter, of medicines preſeruatiues.
-
-    _ Howe to knowe a man that is infected, the fyrſt chapter.
-
-    _ ¶The ſeconde Chapter, of the cure of peſtilence, by the waye of dyet.
-
-    _ ¶The thyrde Chapter, of the cure of peſtilence by the waye of medicine.
-
-    _ ¶The .iiii. chapter of the cure of peſtilence, by lettyng of bloud, ventoſes, and purgacions
-
-    _ ¶The fifth Chapiter, of applycation of outward medicines.
-
-    _ ¶The .vi. Chapiter, of the cure of carbuncles and anthrax.
-
-1. ¶The .xi. Chapter of the cure of the ſtone in the reines, and in the bladder.
-
-    _ ¶The fyrſte chapter of the fyrſte part, treating of the election of the ayer.
-
-    _ ¶The ſecond Chapter, of eatyng and drynkyng.
-
-    _ The thyrde Chapter, of ſlepynge and watchyng.
-
-    _ ¶The .v. Chapter, of emptineſſe and fulnes.
-
-    _ ¶The .vi. Chapter, of accidentes of the minde.
-
-    _ ¶The .vii. Chapter, of medicines preſeruatiues.
-
-    _ Howe to knowe a man that is infected, the fyrſt chapter.
-
-    _ ¶The ſeconde Chapter, of the cure of peſtilence, by the waye of dyet.
-
-    _ ¶The thyrde Chapter, of the cure of peſtilence by the waye of medicine.
-
-    _ ¶The .iiii. chapter of the cure of peſtilence, by lettyng of bloud, ventoſes, and purgacions
-
-    _ ¶The fifth Chapiter, of applycation of outward medicines.
-
-    _ ¶The .vi. Chapiter, of the cure of carbuncles and anthrax.
-
-1. ¶The .xii. chapter of remedyes for the goute.
-
-    _ ¶The fyrſte chapter of the fyrſte part, treating of the election of the ayer.
-
-    _ ¶The ſecond Chapter, of eatyng and drynkyng.
-
-    _ The thyrde Chapter, of ſlepynge and watchyng.
-
-    _ ¶The .v. Chapter, of emptineſſe and fulnes.
-
-    _ ¶The .vi. Chapter, of accidentes of the minde.
-
-    _ ¶The .vii. Chapter, of medicines preſeruatiues.
-
-    _ Howe to knowe a man that is infected, the fyrſt chapter.
-
-    _ ¶The ſeconde Chapter, of the cure of peſtilence, by the waye of dyet.
-
-    _ ¶The thyrde Chapter, of the cure of peſtilence by the waye of medicine.
-
-    _ ¶The .iiii. chapter of the cure of peſtilence, by lettyng of bloud, ventoſes, and purgacions
-
-    _ ¶The fifth Chapiter, of applycation of outward medicines.
-
-    _ ¶The .vi. Chapiter, of the cure of carbuncles and anthrax.
-
-1. ¶To the good reader a preface of the authour.
-
-    _ ¶The fyrſte chapter of the fyrſte part, treating of the election of the ayer.
-
-    _ ¶The ſecond Chapter, of eatyng and drynkyng.
-
-    _ The thyrde Chapter, of ſlepynge and watchyng.
-
-    _ ¶The .v. Chapter, of emptineſſe and fulnes.
-
-    _ ¶The .vi. Chapter, of accidentes of the minde.
-
-    _ ¶The .vii. Chapter, of medicines preſeruatiues.
-
-    _ Howe to knowe a man that is infected, the fyrſt chapter.
-
-    _ ¶The ſeconde Chapter, of the cure of peſtilence, by the waye of dyet.
-
-    _ ¶The thyrde Chapter, of the cure of peſtilence by the waye of medicine.
-
-    _ ¶The .iiii. chapter of the cure of peſtilence, by lettyng of bloud, ventoſes, and purgacions
-
-    _ ¶The fifth Chapiter, of applycation of outward medicines.
-
-    _ ¶The .vi. Chapiter, of the cure of carbuncles and anthrax.
-
-1. A treatiſe of the peſtilence. What is ment or ſignified by this worde peſtilence,
-
-    _ ¶The fyrſte chapter of the fyrſte part, treating of the election of the ayer.
-
-    _ ¶The ſecond Chapter, of eatyng and drynkyng.
-
-    _ The thyrde Chapter, of ſlepynge and watchyng.
-
-    _ ¶The .v. Chapter, of emptineſſe and fulnes.
-
-    _ ¶The .vi. Chapter, of accidentes of the minde.
-
-    _ ¶The .vii. Chapter, of medicines preſeruatiues.
-
-    _ Howe to knowe a man that is infected, the fyrſt chapter.
-
-    _ ¶The ſeconde Chapter, of the cure of peſtilence, by the waye of dyet.
-
-    _ ¶The thyrde Chapter, of the cure of peſtilence by the waye of medicine.
-
-    _ ¶The .iiii. chapter of the cure of peſtilence, by lettyng of bloud, ventoſes, and purgacions
-
-    _ ¶The fifth Chapiter, of applycation of outward medicines.
-
-    _ ¶The .vi. Chapiter, of the cure of carbuncles and anthrax.
-
-1. ¶Of the .iiii. rotes, or cauſes princypal of the ſaide diſeaſe, whereof it doth ariſe and grow, & why it raygneth in one time more then in another.
-
-    _ ¶The fyrſte chapter of the fyrſte part, treating of the election of the ayer.
-
-    _ ¶The ſecond Chapter, of eatyng and drynkyng.
-
-    _ The thyrde Chapter, of ſlepynge and watchyng.
-
-    _ ¶The .v. Chapter, of emptineſſe and fulnes.
-
-    _ ¶The .vi. Chapter, of accidentes of the minde.
-
-    _ ¶The .vii. Chapter, of medicines preſeruatiues.
-
-    _ Howe to knowe a man that is infected, the fyrſt chapter.
-
-    _ ¶The ſeconde Chapter, of the cure of peſtilence, by the waye of dyet.
-
-    _ ¶The thyrde Chapter, of the cure of peſtilence by the waye of medicine.
-
-    _ ¶The .iiii. chapter of the cure of peſtilence, by lettyng of bloud, ventoſes, and purgacions
-
-    _ ¶The fifth Chapiter, of applycation of outward medicines.
-
-    _ ¶The .vi. Chapiter, of the cure of carbuncles and anthrax.
+    _ ¶Of the .iiii. rotes, or cauſes princypal of the ſaide diſeaſe, whereof it doth ariſe and grow, & why it raygneth in one time more then in another.
 ¶The fyrſte chapter of the fyrſte part, treating of the election of the ayer.ALthough the diſpoſicio
-    _ ¶The fyrſte chapter of the fyrſte part, treating of the election of the ayer.
+      * ¶The fyrſte chapter of the fyrſte part, treating of the election of the ayer.
 
-    _ ¶The ſecond Chapter, of eatyng and drynkyng.
+      * ¶The ſecond Chapter, of eatyng and drynkyng.
 
-    _ The thyrde Chapter, of ſlepynge and watchyng.
+      * The thyrde Chapter, of ſlepynge and watchyng.
 
-    _ ¶The .v. Chapter, of emptineſſe and fulnes.
+      * ¶The .v. Chapter, of emptineſſe and fulnes.
 
-    _ ¶The .vi. Chapter, of accidentes of the minde.
+      * ¶The .vi. Chapter, of accidentes of the minde.
 
-    _ ¶The .vii. Chapter, of medicines preſeruatiues.
+      * ¶The .vii. Chapter, of medicines preſeruatiues.
 
-    _ Howe to knowe a man that is infected, the fyrſt chapter.
+    _ The ſeconde parte, of the cure of one that is enfected with the peſtilence alreadye.
 
-    _ ¶The ſeconde Chapter, of the cure of peſtilence, by the waye of dyet.
+      * Howe to knowe a man that is infected, the fyrſt chapter.
 
-    _ ¶The thyrde Chapter, of the cure of peſtilence by the waye of medicine.
+      * ¶The ſeconde Chapter, of the cure of peſtilence, by the waye of dyet.
 
-    _ ¶The .iiii. chapter of the cure of peſtilence, by lettyng of bloud, ventoſes, and purgacions
+      * ¶The thyrde Chapter, of the cure of peſtilence by the waye of medicine.
 
-    _ ¶The fifth Chapiter, of applycation of outward medicines.
+      * ¶The .iiii. chapter of the cure of peſtilence, by lettyng of bloud, ventoſes, and purgacions
 
-    _ ¶The .vi. Chapiter, of the cure of carbuncles and anthrax.
+      * ¶The fifth Chapiter, of applycation of outward medicines.
 
-1. The ſeconde parte, of the cure of one that is enfected with the peſtilence alreadye.
+      * ¶The .vi. Chapiter, of the cure of carbuncles and anthrax.
 
-    _ ¶The fyrſte chapter of the fyrſte part, treating of the election of the ayer.
+1. ¶ A declaracion of the veines in mannes bodye, and to what diſeaſes and infirmities the openyng of euery one of them do ſerue.
 
-    _ ¶The ſecond Chapter, of eatyng and drynkyng.
-
-    _ The thyrde Chapter, of ſlepynge and watchyng.
-
-    _ ¶The .v. Chapter, of emptineſſe and fulnes.
-
-    _ ¶The .vi. Chapter, of accidentes of the minde.
-
-    _ ¶The .vii. Chapter, of medicines preſeruatiues.
-
-    _ Howe to knowe a man that is infected, the fyrſt chapter.
-
-    _ ¶The ſeconde Chapter, of the cure of peſtilence, by the waye of dyet.
-
-    _ ¶The thyrde Chapter, of the cure of peſtilence by the waye of medicine.
-
-    _ ¶The .iiii. chapter of the cure of peſtilence, by lettyng of bloud, ventoſes, and purgacions
-
-    _ ¶The fifth Chapiter, of applycation of outward medicines.
-
-    _ ¶The .vi. Chapiter, of the cure of carbuncles and anthrax.
+1. The boke of children.
 
 #####Back#####
-The regiment of life, whereunto is added a treatise of the pestilence, with the boke of children, ne
+
+1. ¶The contentes of the regiment of lyfe.
+
+1. The contentes of the treatyſe of the peſtilence.
+¶Imprinted at Lōdon in Fleteſtrete at the ſigne of the Sunne ouer againſt the condite, by Edwarde w
 **Types of content**
 
   * There are 4 **verse** lines!
